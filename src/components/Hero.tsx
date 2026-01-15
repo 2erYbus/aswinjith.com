@@ -48,7 +48,7 @@ export default function Hero() {
                         <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                     </a>
                     <a
-                        href="/resume.pdf" // Placeholder for resume
+                        href="/Aswinjith_P_2026.pdf" // Updated resume
                         className="inline-flex items-center gap-2 border border-white/10 bg-white/5 px-6 py-3 rounded-full font-medium hover:bg-white/10 transition-colors backdrop-blur-sm"
                     >
                         Download Resume
